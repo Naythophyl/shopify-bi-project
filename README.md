@@ -17,5 +17,5 @@ This project explores patterns across Shopify apps to determine key factors that
 - Average helpfulness scores provide a clearer measure of impact than total stars
 
 ## 📥 Download
-- [Download Project Files (.zip)](./Power BI project.zip)
+- [Download Project Files (.zip)]([./Power BI project.zip](https://github.com/Naythophyl/shopify-bi-project/blob/main/Power%20BI%20project.zip))
 
